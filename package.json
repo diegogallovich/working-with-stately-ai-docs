@@ -2,9 +2,8 @@
   "name": "working-with-stately-ai-docs",
   "version": "1.0.0",
   "description": "Repo created as a follow along exploration of stately.ai",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "create-an-actor-and-send-events": "nodemon --exec ts-node create-an-actor-and-send-events.ts"
   },
   "repository": {
     "type": "git",
@@ -18,5 +17,9 @@
   "homepage": "https://github.com/diegogallovich/working-with-stately-ai-docs#readme",
   "dependencies": {
     "xstate": "^5.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2"
   }
 }
