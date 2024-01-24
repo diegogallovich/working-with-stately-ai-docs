@@ -1,0 +1,22 @@
+{
+  "name": "working-with-stately-ai-docs",
+  "version": "1.0.0",
+  "description": "Repo created as a follow along exploration of stately.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegogallovich/working-with-stately-ai-docs.git"
+  },
+  "author": "Diego Gallovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegogallovich/working-with-stately-ai-docs/issues"
+  },
+  "homepage": "https://github.com/diegogallovich/working-with-stately-ai-docs#readme",
+  "dependencies": {
+    "xstate": "^5.5.2"
+  }
+}
