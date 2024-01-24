@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Repo created as a follow along exploration of stately.ai",
   "scripts": {
-    "create-an-actor-and-send-events": "nodemon --exec ts-node create-an-actor-and-send-events.ts"
+    "create-an-actor-and-send-events": "nodemon --exec ts-node create-an-actor-and-send-events.ts",
+    "use-delayed-transitions": "nodemon --exec ts-node use-delayed-transitions.ts"
   },
   "repository": {
     "type": "git",
